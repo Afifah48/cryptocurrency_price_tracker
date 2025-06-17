@@ -5,7 +5,7 @@ A simple Streamlit app that shows the current price and recent trends of popular
 ## Features
 
 - Fetches real-time prices for Bitcoin, Ethereum, Dogecoin, Solana, and others.
-- Interactive line chart of price history for the last 7 or 30 days.
+- Interactive line chart of price history for the last 7 .
 - Built using Python, Streamlit, Plotly, and requests.
 - 
 ## Add Later
